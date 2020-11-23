@@ -1,6 +1,6 @@
 
 :new_moon_with_face: Olá, meu nome é Marcos Vinícius e tenho 19 anos.<br>
-:computer: atualmente programo na linguagem <strong>DART</strong> com o framework <strong>FLUTTER</strong><br>
+:computer: programo na linguagem <strong>DART</strong> com o framework <strong>FLUTTER</strong><br>
 :trophy: e trabalho com desenvolvimento de Aplicativos IOS e Android :trophy:
 
 ![2](https://user-images.githubusercontent.com/57817746/100011721-e6867e80-2db0-11eb-83db-a3969adad078.gif)
