@@ -1,9 +1,17 @@
+```js
+import Desenvolvedor from 'SeuNick';
 
-Olá, meu nome é Marcos Vinícius e tenho 19 anos.<br>
-:computer: sou um <strong >DESENVOLVEDOR FLUTTER</strong><br>
-:trophy: trabalho com desenvolvimento de Aplicativos IOS e Android :trophy:
+class SobreMim extends Desenvolvedor {
+  nome     = 'Marcos Vinícius';
+  area    = 'Aplicativos';
+  trabalho  = 'Seg Sistemas de Controle';
+  freelas = 'On'
+  local = 'Sertãozinho';
+}
 
-
-
-
-
+class Skills extends Desenvolvedor {
+  linguagem  = ['Dart'];
+  frameworks = ['Flutter'];
+  bibliotecas  = ['Firebase'];
+}
+```
