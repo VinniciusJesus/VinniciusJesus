@@ -5,7 +5,7 @@ class SobreMim extends Desenvolvedor {
   nome     = 'Marcos Vinícius';
   area    = 'Aplicativos';
   trabalho  = 'Seg Sistemas de Controle';
-  freelancer = 'On'
+  freelancer = 'true'
   local = 'Sertãozinho';
 }
 
