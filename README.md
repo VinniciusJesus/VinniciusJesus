@@ -1,5 +1,5 @@
 ```js
-import Desenvolvedor from 'SeuNick';
+import Desenvolvedor from 'EuMarkus';
 
 class SobreMim extends Desenvolvedor {
   nome     = 'Marcos Vinícius';
@@ -11,7 +11,7 @@ class SobreMim extends Desenvolvedor {
 
 class Skills extends Desenvolvedor {
   linguagem  = ['Dart'];
-  frameworks = ['Flutter'];
-  bibliotecas  = ['Firebase'];
+  framework = ['Flutter'];
+  biblioteca  = ['Firebase'];
 }
 ```
