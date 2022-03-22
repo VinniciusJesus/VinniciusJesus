@@ -12,6 +12,8 @@ class SobreMim extends Desenvolvedor {
 class Skills extends Desenvolvedor {
   linguagem  = ['Dart'];
   framework = ['Flutter'];
-  biblioteca  = ['Firebase'];
+  noSQL  = ['Firebase'];
+  gerenciaDeEstado  = ['GetX'];
+  injecaoDeDependencia  = ['GetIt'];
 }
 ```
