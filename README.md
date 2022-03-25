@@ -13,7 +13,7 @@ class Skills extends Desenvolvedor {
   linguagem  = ['Dart'];
   framework = ['Flutter'];
   noSQL  = ['Firebase'];
-  gerenciaDeEstado  = ['GetX'];
+  gerenciaDeEstado  = ['GetX', 'MobX'];
   injecaoDeDependencia  = ['GetIt'];
 }
 ```
