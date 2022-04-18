@@ -17,3 +17,4 @@ class Skills extends Desenvolvedor {
   injecaoDeDependencia  = ['GetIt'];
 }
 ```
+![](https://komarev.com/ghpvc/?username=VinniciusJesus&style=flat-square)
