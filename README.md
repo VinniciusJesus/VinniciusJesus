@@ -14,6 +14,5 @@ class Skills extends Desenvolvedor {
   framework = ['Flutter'];
   noSQL  = ['Firebase/Firestore'];
   principaisPacotes  = ['GetX', 'MobX', 'Modular'];
-  injecaoDeDependencia  = ['GetIt', 'GetX'];
 }
 ```
