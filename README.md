@@ -16,3 +16,16 @@ class Skills extends Desenvolvedor {
   pacotes  = ['GetX', 'MobX', 'Modular'];
 }
 ```
+
+<details>
+  <summary>:zap: Meus status no GitHub</summary>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=VinniciusJesus&theme=gruvbox&include_all_commits=true&count_private=true)](https://github-profile-trophy.vercel.app/?username=VinniciusJesus&margin-w=15&include_all_commits=true&count_private=true)
+</details>
+
+<details>
+  <summary>:zap: Meu Gráfico de Atividade</summary>
+  <div>
+      <img src="https://activity-graph.herokuapp.com/graph?username=VinniciusJesus&theme=xcode&area=true" />
+  </div>
+</details>
