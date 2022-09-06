@@ -17,11 +17,11 @@ class Skills extends Desenvolvedor {
 }
 ```
 
-<details>
+
   <summary>:zap: Meus status no GitHub</summary>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=VinniciusJesus&theme=onedark&include_all_commits=true&count_private=true)](https://github-profile-trophy.vercel.app/?username=VinniciusJesus&margin-w=15&include_all_commits=true&count_private=true)
-</details>
+
 
 <details>
   <summary>:zap: Meu Gráfico de Atividade</summary>
