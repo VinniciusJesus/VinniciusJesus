@@ -1,4 +1,4 @@
-```js
+```dart
 import Desenvolvedor from 'EuMarkus';
 
 class SobreMim extends Desenvolvedor {
