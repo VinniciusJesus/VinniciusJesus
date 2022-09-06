@@ -18,7 +18,7 @@ class Skills extends Desenvolvedor {
 ```
 
 
- 🏆 Meus status no GitHub
+ 🏆  Meus status no GitHub
  
  
 
