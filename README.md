@@ -18,7 +18,9 @@ class Skills extends Desenvolvedor {
 ```
 
 
-  <summary>:zap: Meus status no GitHub</summary>
+ :zap: Meus status no GitHub
+ 
+ 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=VinniciusJesus&theme=onedark&include_all_commits=true&count_private=true)](https://github-profile-trophy.vercel.app/?username=VinniciusJesus&margin-w=15&include_all_commits=true&count_private=true)
 
