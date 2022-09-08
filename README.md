@@ -6,7 +6,7 @@ class SobreMim extends Desenvolvedor {
   area    = 'Aplicativos';
   trabalho  = 'Seg Sistemas de Controle';
   freelancer = 'true'
-  local = 'Sertãozinho';
+  local = 'Sertãozinho/SP';
 }
 
 class Skills extends Desenvolvedor {
