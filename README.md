@@ -18,7 +18,7 @@ class Skills extends Desenvolvedor {
 ```
 
 
- 🏆  Meus status no GitHub
+ 🏆  Status no GitHub
  
  
 
@@ -26,7 +26,7 @@ class Skills extends Desenvolvedor {
 
 
 <details>
-  <summary>📈 Meu Gráfico de Atividade</summary>
+  <summary>📈 Gráfico de Atividade</summary>
   <div>
       <img src="https://activity-graph.herokuapp.com/graph?username=VinniciusJesus&theme=xcode&area=true" />
   </div>
