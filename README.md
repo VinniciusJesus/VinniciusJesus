@@ -16,7 +16,7 @@ class Skills extends Desenvolvedor {
   pacotes  = ['GetX', 'MobX', 'Modular'];
 }
 ```
-
+   
 
  🏆  Status no GitHub
  
