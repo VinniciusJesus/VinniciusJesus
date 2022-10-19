@@ -32,3 +32,5 @@ class Skills extends Desenvolvedor {
   </div>
 </details>
 
+
+
