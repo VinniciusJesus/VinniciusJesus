@@ -3,7 +3,7 @@
 Desenvolvedor Flutter apaixonado pela área de aplicativos! Desenvolvendo apps desde 2020 com Dart e agora também com Kotlin. Comecei a programar em 2018 no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Sertãozinho.
 
 Tenho muito gosto por desenvolver aplicativos e busco sempre manter uma constante evolução.
-![](https://komarev.com/ghpvc/?username=VinniciusJesus)
+
 
 # 📧 Contato:
 
@@ -21,6 +21,4 @@ Tenho muito gosto por desenvolver aplicativos e busco sempre manter uma constant
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=VinniciusJesus&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VinniciusJesus&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VinniciusJesus&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
----
-[![](https://visitcount.itsvg.in/api?id=VinniciusJesus&icon=0&color=0)](https://visitcount.itsvg.in)
+
