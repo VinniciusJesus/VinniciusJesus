@@ -14,6 +14,8 @@ Tenho muito gosto por desenvolver aplicativos e busco sempre manter uma constant
   </a>
 </p>
 
+---
+
 
  ### 💻 Principais
   <br/>
@@ -31,7 +33,7 @@ Tenho muito gosto por desenvolver aplicativos e busco sempre manter uma constant
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)
 
 
-
+---
 
 
  ### 🧠 &nbsp;Outras Habilidades
@@ -43,4 +45,7 @@ Tenho muito gosto por desenvolver aplicativos e busco sempre manter uma constant
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)
 ![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white)
+
+---
+
 
