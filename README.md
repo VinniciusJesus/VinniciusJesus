@@ -15,7 +15,7 @@ Tenho muito gosto por desenvolver aplicativos e busco sempre manter uma constant
 </p>
 
 
-  <summary>💻 &nbsp;Main tech knowledge</b></summary>
+  <summary>💻 Principais</b></summary>
   <br/>
 
 ![Flutter](https://img.shields.io/badge/FLUTTER-02569B.svg?&style=flat&logo=flutter&logoColor=white) 
