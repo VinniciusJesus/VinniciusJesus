@@ -59,4 +59,5 @@ Tenho muito gosto por desenvolver aplicativos e busco sempre manter uma constant
     </p>
 </details>
 
+---
 
