@@ -49,7 +49,7 @@ Tenho muito gosto por desenvolver aplicativos e busco sempre manter uma constant
 ---
 
 <details>
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+  <summary><b>:gear: &nbsp;Estatística no GitHub</b></summary>
   <br/>
     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=VinniciusJesus&hide_border=true&theme=nightowl" />
