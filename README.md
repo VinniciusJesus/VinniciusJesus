@@ -15,7 +15,7 @@ Tenho muito gosto por desenvolver aplicativos e busco sempre manter uma constant
 </p>
 
 
-  <summary>💻 Principais</b></summary>
+ ###💻 Principais
   <br/>
 
 ![Flutter](https://img.shields.io/badge/FLUTTER-02569B.svg?&style=flat&logo=flutter&logoColor=white) 
@@ -33,9 +33,9 @@ Tenho muito gosto por desenvolver aplicativos e busco sempre manter uma constant
 
 
 
-<details>
-  <summary>🧠 &nbsp;Outras Habilidades</b></summary>
-  <br/>
+
+ ###🧠 &nbsp;Outras Habilidades
+
 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
