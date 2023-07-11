@@ -25,7 +25,7 @@ Tenho muito gosto por desenvolver aplicativos e busco sempre manter uma constant
 ![Dart](https://img.shields.io/badge/DART-%230175C2.svg?&style=flat&logo=dart&logoColor=white)
 ![GetX](https://img.shields.io/badge/GETX-%23121011.svg?&style=flat&logo=getx&logoColor=white) 
 ![MobX](https://img.shields.io/badge/MOBX-%23121011.svg?&style=flat&logo=mobx&logoColor=white) 
-![Android](https://img.shields.io/badge/Android-6DB33F.svg?&style=flat&logo=androidt&logoColor=white)
+![AANDROID](https://img.shields.io/badge/ANDROID-6DB33F.svg?&style=flat&logo=ANDROIDt&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/KOTLIN-0095D5.svg?&style=flat&logo=kotlin&logoColor=white)
 ![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=flat&logo=firebase&logoColor=black)
 ![Oracle](https://img.shields.io/badge/ORACLE-F80000.svg?&style=flat&logo=oracle&logoColor=white)
